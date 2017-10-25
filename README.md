@@ -9,8 +9,14 @@
   1. parece facil
   2.  Que vaya bien
   
- Esto es lo primeroo que añado en local
- vamos a ver lo siguiente
+ ##Esto es lo primeroo que añado en local
+ ##vamos a ver lo siguiente
+ ##estos cambios no los quiero 
+ ##los v oy a desechar
  
+ ##repasando ideas
+ - un fichero puede estar
+  -comprometido
+  -modificado/nuevo
+  -preparaedo
  
-  
